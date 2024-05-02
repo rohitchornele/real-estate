@@ -14,9 +14,17 @@
     gap: 0.5rem;
 }
 
+.c-right .image-container{
+    width: 30rem;
+    height: 35rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(14, 0, 0, 0.12);
+}
+
 .image-container>img{
     height: 100%;
-    width: auto;
+    width: 100%;
 }
 
 .contactModes{

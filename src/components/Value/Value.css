@@ -1,6 +1,11 @@
 .v-container .image-container{
-    border: 8px solid rgb(232, 232, 232 / 93%);
+    border: 8px solid rgb(232, 232, 232);
 
+}
+
+.v-container .image-container>img{
+    width: 100%;
+    height: 100%;
 }
 
 .v-container>div {
